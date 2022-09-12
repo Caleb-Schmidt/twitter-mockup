@@ -1,0 +1,90 @@
+body{
+    display: flex;
+}
+
+svg{
+    margin-right:20px;
+}
+
+header li{
+    list-style-type: none;
+    margin-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+header .tweet-button{
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 5px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border: 1px solid grey;
+    background-color: rgb(24, 125, 227);
+    border-radius: 15px;
+    color: white;
+}
+
+.fixed-container{
+    position: fixed;
+}
+
+header nav{
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+main article{
+    margin-top: 50px;
+}
+
+main article p{
+    font-size: 10px;
+}
+
+footer article{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+footer article p{
+    font-size: 10px;
+}
+
+footer div{
+    background-color: rgb(222, 222, 222);
+    margin: 15px;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+footer button{
+    margin-left: 40px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+.who-to-follow p{
+    margin-left: 25px;
+}
+
+img{
+    border-radius: 15px;
+}
+
+.small-img{
+    width: 35px;
+    height: 35px;
+}
+
+.med-img{
+    width: 60px;
+    height: 50px;
+}
+
